@@ -1,1 +1,1 @@
-I am a student learning Python and Rust in order to develop desktop applications.
+Currently using Java and Rust to develop desktop applications.
