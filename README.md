@@ -1,1 +1,3 @@
-Currently using Java and Rust to develop desktop applications.
+Student @ Varsity College
+
+I develop desktop applications and games in Java, Rust, C++, C#, Python and more.
